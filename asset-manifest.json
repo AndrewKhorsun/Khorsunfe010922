@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//github.com/AndrewKhorsun/Khorsunfe010922/static/css/main.a88fbaf9.css",
-    "main.js": "//github.com/AndrewKhorsun/Khorsunfe010922/static/js/main.050c21d5.js",
-    "static/js/787.28cb0dcd.chunk.js": "//github.com/AndrewKhorsun/Khorsunfe010922/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "//github.com/AndrewKhorsun/Khorsunfe010922/index.html",
-    "main.a88fbaf9.css.map": "//github.com/AndrewKhorsun/Khorsunfe010922/static/css/main.a88fbaf9.css.map",
-    "main.050c21d5.js.map": "//github.com/AndrewKhorsun/Khorsunfe010922/static/js/main.050c21d5.js.map",
-    "787.28cb0dcd.chunk.js.map": "//github.com/AndrewKhorsun/Khorsunfe010922/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/AndrewKhorsun/Khorsunfe010922/static/css/main.a88fbaf9.css",
+    "main.js": "/AndrewKhorsun/Khorsunfe010922/static/js/main.68e2ec6d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AndrewKhorsun/Khorsunfe010922/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AndrewKhorsun/Khorsunfe010922/index.html",
+    "main.a88fbaf9.css.map": "/AndrewKhorsun/Khorsunfe010922/static/css/main.a88fbaf9.css.map",
+    "main.68e2ec6d.js.map": "/AndrewKhorsun/Khorsunfe010922/static/js/main.68e2ec6d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AndrewKhorsun/Khorsunfe010922/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a88fbaf9.css",
-    "static/js/main.050c21d5.js"
+    "static/js/main.68e2ec6d.js"
   ]
 }
