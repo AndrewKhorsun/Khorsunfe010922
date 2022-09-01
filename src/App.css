@@ -1,0 +1,93 @@
+.app {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;;
+}
+.title {
+  font-size: 20px;
+  width: 150px;
+  display: flex;
+  justify-content: start;
+}
+
+.line__landing {
+  margin-left: 10px;
+  width: 80%;
+  height: 50px;
+  border: 1px solid;
+  position: relative;
+  border-radius: 5px;
+}
+
+.line__landing--scale {
+  position: absolute;
+  height: 100%;
+  z-index: -1;
+  background: rgb(107, 47, 47);
+}
+.line__conf {
+  margin-left: 10px;
+  width: 80%;
+  height: 50px;
+  border: 1px solid;
+  position: relative;
+  border-radius: 5px;
+}
+
+.line__conf--scale {
+  content: "";
+  position: absolute;
+  height: 100%;
+  z-index: -1;
+  background: rgb(47, 107, 74);
+}
+.line__check {
+  margin-left: 10px;
+  width: 80%;
+  height: 50px;
+  border: 1px solid;
+  position: relative;
+  border-radius: 5px;
+}
+
+.line__check--scale {
+  content: "";
+  position: absolute;
+  height: 100%;
+  z-index: -1;
+  background: rgb(47, 107, 52);
+}
+.line__deal {
+  position: relative;
+  margin-left: 10px;
+  width: 80%;
+  height: 50px;
+  border: 1px solid;
+  position: relative;
+  border-radius: 5px;
+}
+
+.line__deal--scale {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  z-index: -1;
+  background: rgb(47, 61, 107);
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.container {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
